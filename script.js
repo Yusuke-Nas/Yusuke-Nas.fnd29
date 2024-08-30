@@ -43,15 +43,15 @@ function onStart() {
 }
 
 const videoArray = [
-  {fileName:"video1.mp4", detail:"黄色のきれいなお花の動画です", date:"2024/4/1"},
-  {fileName:"video2.mp4", detail:"ピンクのきれいなお花の動画です", date:"2024/4/20"},
-  {fileName:"video3.mp4", detail:"枯れ葉と木の実の動画です", date:"2024/5/5"},
-  {fileName:"video4.mp4", detail:"海岸沿いを上から撮影した動画です", date:"2024/5/10"},
-  {fileName:"video5.mp4", detail:"山の上から海を撮影したタイムラプスです", date:"2024/6/2"},
-  {fileName:"video6.mp4", detail:"水面に浮かぶスイレンの動画です", date:"2024/6/19"},
-  {fileName:"video7.mp4", detail:"海岸沿いの都市を撮影した動画です", date:"2024/7/4"},
-  {fileName:"video8.mp4", detail:"砂浜から陸地を撮影した動画です", date:"2024/8/1"},
-  {fileName:"video9.mp4", detail:"オーロラの動画です", date:"2024/8/20"}
+  {fileName:"video1.mp4", detail:"街中を大勢の人が歩いている映像です"},
+  {fileName:"video2.mp4", detail:"男の子が数学の問題を解いている映像です"},
+  {fileName:"video3.mp4", detail:"雪山でスキーを楽しんでいる映像です"},
+  {fileName:"video4.mp4", detail:"世界を一周している映像です"},
+  {fileName:"video5.mp4", detail:"都会の交差点を空から撮影した映像です"},
+  {fileName:"video6.mp4", detail:"渓谷を気球で飛んでいる映像です"},
+  {fileName:"video7.mp4", detail:"飛行機から外の景色を撮影した映像です"},
+  {fileName:"video8.mp4", detail:"枯れ葉の舞う峠道を撮影した映像です"},
+  {fileName:"video9.mp4", detail:"ワインディングロードを空から撮影した映像です"}
 ]
 
 //読み込んだ後に実行
